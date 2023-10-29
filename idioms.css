@@ -82,6 +82,9 @@ footer{
         font-size: 14px; /* Tamaño de fuente más pequeño para dispositivos móviles */
     }
 
+    h2{
+        font-size:2rem;
+    }
     .container {
         width: 90%; /* Ajusta el ancho del contenedor para dispositivos móviles */
         height: auto; /* Permite que la altura se ajuste automáticamente */
