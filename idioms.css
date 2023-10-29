@@ -108,6 +108,6 @@ footer{
     }
 
     footer {
-        font-size: 1.5rem; /* Tamaño de fuente más pequeño para dispositivos móviles */
+        font-size: 0.7rem; /* Tamaño de fuente más pequeño para dispositivos móviles */
     }
 }
