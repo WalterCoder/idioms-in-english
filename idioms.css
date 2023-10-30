@@ -67,12 +67,11 @@ body{
 }
 
 footer{
-    font-size:2rem;
+    font-size:1rem;
     color:white;
     position: absolute;
     bottom: 0;
     width: 100%;
-    background-color: #000000;
     padding: 10px;
     text-align: center;
 }
@@ -114,7 +113,6 @@ footer{
         font-size: 0.7rem; /* Tamaño de fuente más pequeño para dispositivos móviles */
         margin:0;
         padding:3px;
-        background-color:rgba(0, 0, 0, 0);
-    }
+         }
     }
 
